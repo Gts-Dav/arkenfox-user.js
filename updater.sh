@@ -405,3 +405,5 @@ fi
 update_userjs
 
 cd "$CURRDIR"
+
+touch prefs.js # Create prefs.js if it does not exist, so stow symlinks it
