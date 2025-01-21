@@ -1,4 +1,6 @@
-user.js
-userjs_backups/
-prefs.js
-prefsjs_backups/
+*
+!.gitignore
+!updater.sh
+!prefsCleaner.sh
+!user-overrides
+!LICENSE.txt
