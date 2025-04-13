@@ -2,5 +2,5 @@
 !.gitignore
 !updater.sh
 !prefsCleaner.sh
-!user-overrides
+!user-overrides.js
 !LICENSE.txt
